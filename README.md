@@ -20,8 +20,6 @@ Fund existing campaigns using ETH
 Automatically mark campaigns as completed when goals are reached
 
 Withdraw funds safely once a campaign is completed
-
- Smart Contract Explanation
       
     // SPDX-License-Identifier: MIT
     pragma solidity ^0.8.0;
